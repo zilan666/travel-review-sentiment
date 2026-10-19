@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# 编辑器
+.vscode/
+
+# 数据集：原始数据永不入库，仓库只放下载脚本
+data/
+
+# 密钥：API Key 一律放 .env
+.env
+
+# 模型二进制文件
+*.pkl
+*.joblib

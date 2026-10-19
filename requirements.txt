@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+gradio
+jupyter
+matplotlib
+black
